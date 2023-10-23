@@ -2,6 +2,6 @@ hello
 
 a=10
 
-c=660
+c=670
 
 result=30
